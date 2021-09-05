@@ -1,0 +1,26 @@
+body {
+	background-color: #f7786b;
+	text-align: center;
+}
+h1{
+	font-size: 50pt;
+	text-align: center;
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+h2{
+	text-align: left;
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
+p{
+	text-align: left;
+}
+.gray-text{
+	color: #747b88;
+
+}
+
+#name{
+	font-size: 60;
+	text-align: center;
+	color: #034f84;
+}
